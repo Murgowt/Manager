@@ -29,3 +29,11 @@ delivered is stored
 
 4 sales record. 
 In this sales record we have how much of money we have spent in the particular year and how much profit and loses we got will be shown in these.
+
+![image](https://user-images.githubusercontent.com/43582286/77403024-972d2000-6dd5-11ea-9773-6a44cf861ac9.png)
+
+![image](https://user-images.githubusercontent.com/43582286/77403084-af9d3a80-6dd5-11ea-96af-2af83e40596c.png)
+
+![image](https://user-images.githubusercontent.com/43582286/77403129-c17edd80-6dd5-11ea-853c-c96742eabcd3.png)
+
+![image](https://user-images.githubusercontent.com/43582286/77403173-d6f40780-6dd5-11ea-8a29-2c52b428cfef.png)
